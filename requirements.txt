@@ -3,4 +3,5 @@ python-dotenv
 langgraph
 langchain
 langchain-groq
-langchain-google-genai
+PyPDF2
+streamlit-mic-recorder
